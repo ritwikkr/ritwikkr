@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ProShop: an e-commerce website built using the MERN stack.](https://shopease.site/)
 
-- 🌱 I’m currently learning **Advanced AWS Services and GraphQL.**
+- 🌱 I’m currently learning **Advanced AWS Services and NextJS.**
 
 - 👯 I’m looking to collaborate on **Fullstack projects**
 
